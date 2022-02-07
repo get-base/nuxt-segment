@@ -1,6 +1,6 @@
 {
   "name": "@get-base/nuxt-segment",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Nuxt.js module for Segment Analytics.js",
   "license": "MIT",
   "contributors": [
@@ -16,6 +16,7 @@
   "main": "lib/module.js",
   "repository": "https://github.com/get-base/nuxt-segment",
   "publishConfig": {
+    "registry": "https://registry.npmjs.org",
     "access": "public"
   },
   "scripts": {
