@@ -1185,11 +1185,6 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@dansmaculotte/vue-segment@^0.2.9":
-  version "0.2.9"
-  resolved "https://registry.yarnpkg.com/@dansmaculotte/vue-segment/-/vue-segment-0.2.9.tgz#a1c1cac858ba84f9655e6045cca9b055ffb5a257"
-  integrity sha512-EinGLB3IfjRpjLBPqgOg0fZOGlheSedAUi9qjajkUhxLQF632uClSNLX4+OgtQ5loAlOGx+ISArhwUML0RK0BA==
-
 "@eslint/eslintrc@^0.2.2":
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.2.2.tgz#d01fc791e2fc33e88a29d6f3dc7e93d0cd784b76"
@@ -1205,6 +1200,11 @@
     lodash "^4.17.19"
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
+
+"@get-base/vue-segment@^0.3.5":
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/@get-base/vue-segment/-/vue-segment-0.3.5.tgz#0e6b033567c0fae38a5e42ab90307682aea85631"
+  integrity sha512-uLHz7J/BnBr2sdbu+HyUp9PLhPuu1Isrr/MJ5LrHpXfvpFNzGrvFCvTvdqA1K5XbS86sDGvjLbg4OyuEKWWvSg==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
