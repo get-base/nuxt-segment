@@ -21,7 +21,7 @@ This module uses [vue-segment](https://github.com/dansmaculotte/vue-segment) to 
 {
   modules: [
     // Simple usage
-    '@dansmaculotte/nuxt-segment',
+    '@get-base/nuxt-segment',
 
     // With options
     [
